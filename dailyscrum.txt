@@ -1,0 +1,218 @@
+********Example
+2018/02/28 Gregory
+1. Done / not done since last scrum:
+- created project plan
+- created database mockup
+- did not write the description yet
+2. To do until next Scrum:
+- finish the description
+- setup the initial project
+- create the custom dialog for user login
+- setup the database
+3. Need assistance / figure things out
+- find and test a library for PDF printouts
+- find out how to fetch data from URL and parse JSON
+
+2022/09/15
+****************************
+ Amir
+1. Done / not done since last scrum:
+- Created Git repositories ( client and server seperately)
+- Improved project draft
+- Improved DB with Hossein
+- did not  finalized trello board yet ( create user story -> todos)
+- Trello account creted
+
+2. To do until next Scrum:
+- finalizing the user story and todos 
+- setup the initial project
+
+3. Need assistance / figure things out
+- do reaserch about MongoDB 
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- Forked the Main project on my github
+- Improved DB in Mysql and the table relations to have as plan B instead of MongoDB 
+-Trello account creted
+
+2. To do until next Scrum:
+- prepare user register/login 
+
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+==============
+
+Ilnaz 
+1. Done / not done since last scrum:
+- Finalized proposal draft mockup 
+- Trello account creted
+
+2. To do until next Scrum:
+- Prepare user and product UI 
+- Forked the Main project on my github
+
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+
+2022/09/18
+****************************
+Amir
+1. Done / not done since last scrum:
+- did some research about redux and Mongo 
+- Finalized user stories 
+- Did initial project setup
+
+2. To do until next Scrum:
+- Writing user todos in details 
+- Create MongoDB models 
+
+3. Need assistance / figure things out
+still need to choose between redx or other state managements 
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- user register/login
+
+2. To do until next Scrum:
+- create register and login page 
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+==============
+
+Ilnaz 
+1. Done / not done since last scrum:
+- still preparing user and product UI 
+- Forked the Main project on my github
+
+2. To do until next Scrum:
+- Prepare user and product UI 
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+2022/09/19
+****************************
+Amir
+1. Done / not done since last scrum:
+- Mongo research done, finalized 
+- Todos partly done 
+
+2. To do until next Scrum:
+- UserModel, productModel, orderModel 
+
+3. Need assistance / figure things out
+-Nothing so far 
+
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- user register
+
+2. To do until next Scrum:
+- create register page 
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+
+==============
+Ilnaz 
+1. Done / not done since last scrum:
+- user login
+
+2. To do until next Scrum:
+- create login page 
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+
+2022/09/20
+****************************
+Amir
+1. Done / not done since last scrum:
+-Mongodb up and running Done 
+
+2. To do until next Scrum:
+- productModel 
+- homeScreen 
+
+3. Need assistance / figure things out
+-Nothing so far 
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- user register created 
+
+2. To do until next Scrum:
+- create Upload route 
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+==============
+Ilnaz 
+1. Done / not done since last scrum:
+- user login created 
+
+2. To do until next Scrum:
+- create product login  
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+
+2022/09/21
+****************************
+
+Amir
+1. Done / not done since last scrum:
+- productModel
+- ProductScreen 
+- homeScreen
+
+2. To do until next Scrum:
+- Add to cart 
+ 
+
+3. Need assistance / figure things out
+- how to add build to gitignore ????
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- Upload route  Done
+- Update RegisterScreen 
+
+2. To do until next Scrum:
+- Orders
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+==============
+Ilnaz 
+1. Done / not done since last scrum:
+- productRoute 
+- userScreen Updated 
+
+2. To do until next Scrum:
+- verify product CRUD
+- Add Comment / review 
+
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+
