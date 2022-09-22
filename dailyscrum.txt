@@ -184,6 +184,7 @@ Amir
 
 2. To do until next Scrum:
 - Add to cart 
+- Add review in productModel
  
 
 3. Need assistance / figure things out
@@ -216,7 +217,53 @@ Ilnaz
 -Nothing for this scrum
 
 
+2022/09/22
+****************************
 
-test21sep
+Amir
+1. Done / not done since last scrum:
+- Add to cart 
+- paypal button
+- Add review in productModel
 
+
+2. To do until next Scrum:
+- payment screeen
+- profile 
+- Search & Sort
+ 
+
+3. Need assistance / figure things out
+- github partly fork 
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- OrderScreen 
+- OrderRoute
+
+2. To do until next Scrum:
+- OrdersScreen (Admin)
+- headers 
+
+
+3. Need assistance / figure things out
+-Nothing for this scrum
+
+
+==============
+Ilnaz 
+1. Done / not done since last scrum:
+- verify product CRUD
+- Add Comment / review 
+
+
+2. To do until next Scrum:
+- continue working on rating 
+- update productsScreen 
+
+
+
+3. Need assistance / figure things out
+-Nothing for this scrum
 
