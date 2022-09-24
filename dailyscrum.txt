@@ -267,3 +267,56 @@ Ilnaz
 3. Need assistance / figure things out
 -Nothing for this scrum
 
+2022/09/24
+****************************
+
+Amir
+1. Done / not done since last scrum:
+- Update paymentScreeen
+- Update profileScreen  
+- Search & Sort Did not finalized yet 
+
+2. To do until next Scrum:
+- Continue finalizing search & Sort 
+- Update Cart 
+- Update Home 
+- Route updates with Ilnaz and Hossein 
+
+3. Need assistance / figure things out
+- Mongo ERD for presentation 
+
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- OrdersScreen (Admin)
+- headers 
+
+2. To do until next Scrum:
+- add placeOrderScreen 
+- Route updates with Ilnaz and Amir 
+
+3. Need assistance / figure things out
+- Mongo ERD for presentation 
+
+==============
+Ilnaz 
+1. Done / not done since last scrum:
+- continue working on rating 
+- update productsScreen     
+
+
+2. To do until next Scrum:
+- update productRoute  
+- UserRoute Update 
+- Add CategoryScreen & RoutCategory ( add category by admin)
+- Add categoryModel 
+- Route updates with Amir and Hossein 
+
+
+
+3. Need assistance / figure things out
+- Mongo ERD for presentation 
+
+
+
