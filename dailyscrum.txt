@@ -371,3 +371,48 @@ Ilnaz
 - Mongo ERD for presentation 
 
 
+2022/09/26
+****************************
+Amir
+1. Done / not done since last scrum:
+- index.css update
+- add checkoutSteps component 
+- Update homeScreen 
+
+
+2. To do until next Scrum:
+- test whole application 
+
+
+3. Need assistance / figure things out
+- Mongo ERD for presentation 
+
+==============
+Hossein 
+1. Done / not done since last scrum:
+- Update cartScreen 
+- Update register/validation 
+- add shippingScreen 
+
+2. To do until next Scrum:
+- test whole application 
+
+3. Need assistance / figure things out
+- Mongo ERD for presentation 
+
+==============
+Ilnaz 
+1. Done / not done since last scrum:
+- update signin/validation 
+- update Admin
+- add sideBar component 
+- update productsScreen/ProductScreen
+
+
+2. To do until next Scrum:
+- test whole application 
+
+
+3. Need assistance / figure things out
+- Mongo ERD for presentation 
+
